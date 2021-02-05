@@ -1,0 +1,20 @@
+#box{}
+h3
+{ color: blue;
+}
+h5
+{ color: red;
+}
+body
+{
+background-image: url('background.png');
+}
+img
+{
+    float: right;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px blue;
+}
+footer
+{ text-align: center;
+}
